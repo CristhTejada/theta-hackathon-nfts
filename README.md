@@ -1,1 +1,0 @@
-# Theta NFT Ticketing Platform
